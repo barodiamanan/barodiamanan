@@ -1,3 +1,16 @@
+# 💫 Hi 👋, I'm Manan Barodia
+
+Email Me 👉 ✉️ **barodiamanan@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🌱 **I’m currently learning:** MCA
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** barodiamanan@gmail.com
+- 😄 **Pronouns:** Manan
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manan__x17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:barodiamanan@gmail.com) 
